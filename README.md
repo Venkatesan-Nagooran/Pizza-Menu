@@ -45,11 +45,11 @@ This will start the development server, and you can view the application in your
 Dependencies
 The project uses the following dependencies:
 
-React
-React DOM
-Vite
-@vitejs/plugin-react
-gh-pages
+- React
+- React DOM
+- Vite
+- @vitejs/plugin-react
+- gh-pages
 For development, the following dependencies are used:
 
 @types/react
